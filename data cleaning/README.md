@@ -1,1 +1,1 @@
-Code froma data science assignment on cleaning and summarisation
+Code from a data science assignment on cleaning and summarisation
